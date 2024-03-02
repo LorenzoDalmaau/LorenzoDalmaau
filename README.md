@@ -22,4 +22,4 @@ En mis inicios, me sumergí en el mundo de Android utilizando Kotlin y Android S
 
 La programación no es solo mi profesión, sino también mi pasión. Estoy siempre abierto a nuevas colaboraciones y desafíos. ¡Conéctemos y hagamos cosas increíbles juntos!
 
-Únete a mi viaje mientras transformo ideas en código con profesionalismo y dedicación. 🚀✨
+Únete a mi viaje y transofrmemos ideas en código con profesionalismo y dedicación. 🚀✨
