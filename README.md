@@ -16,10 +16,4 @@ A lo largo de mi trayectoria, he trabajado con diversas tecnologías. Mis habili
 
 ## 🛠️ Proyectos Destacados
 
-En mis inicios, me sumergí en el mundo de Android utilizando Kotlin y Android Studio, contribuyendo al desarrollo de aplicaciones nativas. Mi enfoque actual se centra en Dart y Flutter, donde creo aplicaciones híbridas que combinan eficiencia y elegancia.
-
-## 🌐 Conectemos
-
-La programación no es solo mi profesión, sino también mi pasión. Estoy siempre abierto a nuevas colaboraciones y desafíos. ¡Conéctemos y hagamos cosas increíbles juntos!
-
-Únete a mi viaje y transofrmemos ideas en código con profesionalismo y dedicación. 🚀✨
+En mis inicios, me sumergí en el mundo de Android utilizando Kotlin y Android Studio, contribuyendo al desarrollo de aplicaciones nativas. Mi enfoque actual se centra en Dart y Flutter, donde creo aplicaciones híbridas que combinan eficiencia y elegancia. 🚀✨
