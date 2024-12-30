@@ -1,19 +1,15 @@
-# ¡Hola, soy Lorenzo! 👋
+# 👨‍💻 Sobre mí
 
-¡Saludos desde Barcelona! Soy Lorenzo, un apasionado desarrollador de 24 años con sede en la vibrante ciudad condal. Actualmente, me encuentro inmerso en mi formación de grado superior en Desarrollo de Aplicaciones Multiplataforma en busca de nuevas oportunidades y desafíos.
+Desarrollador apasionado por la tecnología y la ciberseguridad, en constante evolución. Me motiva aprender 📚 y enfrentar nuevos retos 🚀, con el objetivo de crecer como profesional y aportar valor en cada proyecto en el que participo.
 
-## 💼 Experiencia Profesional
+Aunque estoy al inicio de mi carrera, tengo una gran curiosidad por explorar soluciones innovadoras y un compromiso firme con la mejora continua 🔄. Busco oportunidades que me permitan aprender de los mejores 🌟, trabajar en equipo 🤝 y contribuir a crear productos tecnológicos de impacto.
 
-Actualmente, desempeño el rol de programador frontend en Abalit Tecnologies, una destacada empresa de desarrollo mobile. Mi enfoque se centra en la creación de experiencias de usuario excepcionales a través de líneas de código precisas y eficientes.
+💡 Estoy abierto a conectar con profesionales que compartan mi pasión por la tecnología y la seguridad digital.
 
-## 🚀 Tecnologías y Herramientas
+## 🛠️ Tecnologías que manejo:
 
-A lo largo de mi trayectoria, he trabajado con diversas tecnologías. Mis habilidades incluyen:
-
-- **Lenguajes**: Kotlin, Dart, Python
-- **Frameworks**: Android Studio, Flutter
-- **Áreas de Especialización**: Desarrollo móvil, Aplicaciones híbridas, Machine Learning (conocimientos básicos).
-
-## 🛠️ Proyectos Destacados
-
-En mis inicios, me sumergí en el mundo de Android utilizando Kotlin y Android Studio, contribuyendo al desarrollo de aplicaciones nativas. Mi enfoque actual se centra en Dart y Flutter, donde creo aplicaciones híbridas que combinan eficiencia y elegancia. 🚀✨
+- **Lenguajes:** Kotlin, Dart (Flutter), Python  
+- **Herramientas y Plataformas:** Firebase, Docker, Google Console, Apple Console  
+- **Metodologías:** Agile, Scrum  
+- **Control de versiones:** Git, GitLab  
+- **Otros:** APIs REST, Cloud Computing (AWS), Machine Learning, Clean Architecture
