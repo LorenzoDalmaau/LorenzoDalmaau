@@ -1,6 +1,6 @@
 # ¡Hola, soy Lorenzo! 👋
 
-¡Saludos desde Barcelona! Soy Lorenzo, un apasionado desarrollador de 23 años con sede en la vibrante ciudad condal. Actualmente, me encuentro inmerso en mi formación de grado superior en Desarrollo de Aplicaciones Multiplataforma en busca de nuevas oportunidades y desafíos.
+¡Saludos desde Barcelona! Soy Lorenzo, un apasionado desarrollador de 24 años con sede en la vibrante ciudad condal. Actualmente, me encuentro inmerso en mi formación de grado superior en Desarrollo de Aplicaciones Multiplataforma en busca de nuevas oportunidades y desafíos.
 
 ## 💼 Experiencia Profesional
 
